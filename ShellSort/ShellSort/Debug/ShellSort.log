@@ -1,0 +1,3 @@
+﻿  ShellSort.cpp
+c:\users\andriy\desktop\shellsort\shellsort\shellsort.cpp(38): warning C4101: val: неиспользованная локальная переменная
+  ShellSort.vcxproj -> C:\Users\Andriy\Desktop\ShellSort\Debug\ShellSort.exe

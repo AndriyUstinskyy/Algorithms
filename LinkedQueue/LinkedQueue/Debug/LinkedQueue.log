@@ -1,0 +1,4 @@
+﻿  LinkedQueue.cpp
+c:\users\andriy\desktop\linkedqueue\linkedqueue\linkedqueue.cpp(119): warning C4715: LinkedList::remove: значение возвращается не при всех путях выполнения
+c:\users\andriy\desktop\linkedqueue\linkedqueue\linkedqueue.cpp(54): warning C4715: LinkedList::popFront: значение возвращается не при всех путях выполнения
+  LinkedQueue.vcxproj -> C:\Users\Andriy\Desktop\LinkedQueue\Debug\LinkedQueue.exe
